@@ -1,3 +1,4 @@
+--only-binary=pandas
 streamlit==1.20.0
 pandas==2.2.2
 openai==0.28.1
